@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kosmicforger - A full-fledged windows desktop application developer
+- 👀 I’m interested in creating awesome and useful software and systems for streamlining work processes
+- 🌱 I’m currently learning web and mobile development
+- :fire: You can also hire me if you have any ideas on desktop apps
+- 📫 How to reach me: kosmic.forger@gmail.com
